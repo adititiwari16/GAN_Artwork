@@ -1,5 +1,6 @@
 # GAN_Artwork
 
+**Dataset:** https://www.kaggle.com/datasets/karnikakapoor/art-portraits
 **Resources:**
 
 [TensorFlow DCGAN](https://www.tensorflow.org/tutorials/generative/dcgan)
